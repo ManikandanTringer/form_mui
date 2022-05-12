@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form_mui/static/css/main.f61556a6.css",
+    "main.js": "/form_mui/static/js/main.b0a796cc.js",
+    "static/js/787.aeb39de0.chunk.js": "/form_mui/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/form_mui/index.html",
+    "main.f61556a6.css.map": "/form_mui/static/css/main.f61556a6.css.map",
+    "main.b0a796cc.js.map": "/form_mui/static/js/main.b0a796cc.js.map",
+    "787.aeb39de0.chunk.js.map": "/form_mui/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f61556a6.css",
+    "static/js/main.b0a796cc.js"
+  ]
+}
